@@ -1,2 +1,10 @@
-# Ajeita-Drika-Wreck-it-Ralph
-A change on the Wreck It Ralph Game by Juanma Pérez juanmaperez, I changed Felix to look like a friend of mine (her remote birthday gift since we can't visit because of human malware covid-19) and changed the key bindings to use the arrow keys and ctrl left to fix windows. 
+# Wreck it Ralph game
+
+A basic game based on the Disney Film:
+
+ * Developed in Javascript, HTML and CSS
+ * Only one level
+ * Open-Source
+ * File contents are saved in the URL so you can share files
+
+![alt text](https://r.mprd.se/media/images/164817-Wreck-It_Ralph_(E)(EXiMiUS)-3.png)
